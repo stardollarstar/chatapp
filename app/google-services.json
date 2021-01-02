@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613489218075",
+    "firebase_url": "https://android-chatting-app-69ef6-default-rtdb.firebaseio.com",
+    "project_id": "android-chatting-app-69ef6",
+    "storage_bucket": "android-chatting-app-69ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613489218075:android:b805f1681e68acfff05ebe",
+        "android_client_info": {
+          "package_name": "com.badarch.groupchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613489218075-0310mg43k17daupbb6eppf3fcprgj7j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABAvJI154raawiVFV0Xi_ZfkiAFe7_Tlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613489218075-0310mg43k17daupbb6eppf3fcprgj7j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
